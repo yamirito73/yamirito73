@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yamirito73, I am a software engineer from Panama.  I have experience in front, back and mobile software (Java, Spring, ReactJS, React Native, Android, iOS)
+- 👋 Hi, I’m @yamirito73, I am a software engineer from Panama.  I have experience in front, back and mobile software (C, C++, Java, Spring, ReactJS, NextJS, React Native, Android, iOS)
 - 👀 I’m interested in meeting and collaborating with other colleagues; I like technology, software development, video games, etc.
-- 💞️ I’m looking to collaborate on any project related with java, spring and reactjs because it is my area of experience.
+- 💞️ I’m looking to collaborate on any project related with java, spring, nextjs and reactjs because it is my area of experience.
 
 
 <!---
